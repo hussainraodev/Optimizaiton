@@ -41,7 +41,7 @@
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
+
 *.sln
 *.suo
 *.tmp
@@ -69,15 +69,14 @@ mono_crash.*
 # Builds
 *.apk
 *.aab
-*.unitypackage
-*.unitypackage.meta
+
+
 *.app
 
 # Crashlytics generated file
 crashlytics-build.properties
 
-# TestRunner generated files
-InitTestScene*.unity*
+
 
 # Addressables default ignores, before user customizations
 /ServerData
